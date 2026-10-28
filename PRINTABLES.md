@@ -25,6 +25,8 @@ Keep birds, cats, squirrels and other animals off railings, fence tops, ledges a
 - `deterrent_spikes.scad`: the customizable model.
 - A ready-to-print STL, 210 × 125 mm with the default settings. It fits most 220 mm-class beds.
 
+The latest version of the model is always on GitHub: https://github.com/andrewfraley/openscad-bird-spikes
+
 **Customizing**
 
 1. Install OpenSCAD (free, openscad.org) and open `deterrent_spikes.scad`.
@@ -33,7 +35,7 @@ Keep birds, cats, squirrels and other animals off railings, fence tops, ledges a
 4. If the run is longer than your bed, raise `num_segments` and export each `segment_index`.
 5. Render (F6) and export to STL.
 
-The README has every parameter explained, along with tips on choosing the spacing for different animals.
+The README on GitHub explains every parameter and has tips on choosing the spacing for different animals. Issues and pull requests are welcome there.
 
 **Spacing tips**
 
